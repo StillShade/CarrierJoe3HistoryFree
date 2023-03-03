@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: bd8b26785efee9541868c3dd18170e70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6512282753826617189
+    second: Cargo Pack Cub
+  - first:
+      213: 7186395699582087116
+    second: Cargo Pack Barel
+  - first:
+      213: 3337044021329630559
+    second: Cargo Pack Brick
+  - first:
+      213: -5101117390759480576
+    second: Cargo Pack Bigbag
+  - first:
+      213: -9220350659871988920
+    second: Cargo Pack Iron (roll)
+  - first:
+      213: 2138667934069647477
+    second: Cargo Pack Fertilizer
+  - first:
+      213: -7361579852671294135
+    second: Cargo Pack GlassBottle
+  - first:
+      213: -552797676307094260
+    second: Cargo Pack Refrigerator
+  - first:
+      213: -4655117879931605311
+    second: Cargo Pack Drywall
+  - first:
+      213: -8339123312587800482
+    second: Cargo Pack CannedFood
+  - first:
+      213: -6630962541232009358
+    second: Cargo Pack Sandwich Panel 6m
+  - first:
+      213: -4574996232639832263
+    second: Cargo Pack Sandwich Panel 4m
+  - first:
+      213: 7849614650889219325
+    second: Cargo Pack Fish
+  - first:
+      213: -6242825232065473063
+    second: Cargo Pack Meat
+  - first:
+      213: -6586917411191763728
+    second: Cargo Pack Butter
+  - first:
+      213: -6868013196751506265
+    second: Cargo Pack Flowers
+  - first:
+      213: -6963764147286683110
+    second: Cargo Pack Fruits
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cargo Pack Cub
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 236
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567fcba39a6406a50800000000000000
+      internalID: 6512282753826617189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Barel
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 823
+        width: 256
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2cf840d43bb360800000000000000
+      internalID: 7186395699582087116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Brick
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 823
+        width: 262
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5591336bdf8f4e20800000000000000
+      internalID: 3337044021329630559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Bigbag
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 823
+        width: 143
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003b63e82c03539b0800000000000000
+      internalID: -5101117390759480576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Iron (roll)
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 286
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843aac52debba0080800000000000000
+      internalID: -9220350659871988920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Fertilizer
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 288
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786db6a7231ead10800000000000000
+      internalID: 2138667934069647477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack GlassBottle
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 304
+        width: 289
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945ead7902a66d990800000000000000
+      internalID: -7361579852671294135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Refrigerator
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 300
+        width: 209
+        height: 509
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05ed0731711458f0800000000000000
+      internalID: -552797676307094260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Drywall
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 838
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce6b1bb3f2b56fb0800000000000000
+      internalID: -4655117879931605311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack CannedFood
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 823
+        width: 254
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50860f978b754c80800000000000000
+      internalID: -8339123312587800482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Sandwich Panel 6m
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 58
+        width: 841
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fc1fa73b61af3a0800000000000000
+      internalID: -6630962541232009358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Sandwich Panel 4m
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 235
+        width: 566
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f90c07a295280c0800000000000000
+      internalID: -4574996232639832263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Fish
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 408
+        width: 261
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc24f99fee6fec60800000000000000
+      internalID: 7849614650889219325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Meat
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 407
+        width: 169
+        height: 400
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d554eff6870d59a0800000000000000
+      internalID: -6242825232065473063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Butter
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 823
+        width: 256
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc441573819694a0800000000000000
+      internalID: -6586917411191763728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Flowers
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 409
+        width: 249
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a47ee6c26aefa0a0800000000000000
+      internalID: -6868013196751506265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cargo Pack Fruits
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 236
+        width: 261
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a125065576dbb5f90800000000000000
+      internalID: -6963764147286683110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cargo Pack Cub: 6512282753826617189
+      Cargo Pack Fertilizer: 2138667934069647477
+      Cargo Pack Brick: 3337044021329630559
+      Cargo Pack Iron (roll): -9220350659871988920
+      Cargo Pack Butter: -6586917411191763728
+      Cargo Pack Sandwich Panel 6m: -6630962541232009358
+      Cargo Pack GlassBottle: -7361579852671294135
+      Cargo Pack CannedFood: -8339123312587800482
+      Cargo Pack Sandwich Panel 4m: -4574996232639832263
+      Cargo Pack Bigbag: -5101117390759480576
+      Cargo Pack Barel: 7186395699582087116
+      Cargo Pack Fruits: -6963764147286683110
+      Cargo Pack Drywall: -4655117879931605311
+      Cargo Pack Refrigerator: -552797676307094260
+      Cargo Pack Fish: 7849614650889219325
+      Cargo Pack Meat: -6242825232065473063
+      Cargo Pack Flowers: -6868013196751506265
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

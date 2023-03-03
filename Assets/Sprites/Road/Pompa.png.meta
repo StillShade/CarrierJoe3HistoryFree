@@ -1,0 +1,571 @@
+fileFormatVersion: 2
+guid: f98ccd61a74dac549a66de231947222a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5942920215655233890
+    second: Pompa_0
+  - first:
+      213: -6447583427933571940
+    second: Pompa_1
+  - first:
+      213: -6629030549369329321
+    second: Pompa_2
+  - first:
+      213: 6869159785805207537
+    second: Pompa_3
+  - first:
+      213: -4690600994482499128
+    second: Pompa_4
+  - first:
+      213: -6878310521891643168
+    second: Pompa_5
+  - first:
+      213: 2771432916440143790
+    second: Pompa_6
+  - first:
+      213: 8613217434786683289
+    second: Pompa_7
+  - first:
+      213: 8756052797622964343
+    second: Pompa_8
+  - first:
+      213: -725622140750929876
+    second: Pompa_9
+  - first:
+      213: 6445517171344823077
+    second: Pompa_10
+  - first:
+      213: 7421481931850671846
+    second: Pompa_11
+  - first:
+      213: 2133591434374508562
+    second: Pompa_12
+  - first:
+      213: 4342436026417501037
+    second: Pompa_13
+  - first:
+      213: 6213937284975006756
+    second: Pompa_14
+  - first:
+      213: 5536610012223267954
+    second: Pompa_15
+  - first:
+      213: -3730824502511974849
+    second: Pompa_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pompa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1144
+        width: 398
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693e9ef27e797250800000000000000
+      internalID: 5942920215655233890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 398
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f25678059586a0800000000000000
+      internalID: -6447583427933571940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 856
+        width: 398
+        height: 242
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759e0a366d3f004a0800000000000000
+      internalID: -6629030549369329321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_3
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 856
+        width: 398
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7515a4e68245f50800000000000000
+      internalID: 6869159785805207537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_4
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 856
+        width: 398
+        height: 248
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1d6c45f33a7eeb0800000000000000
+      internalID: -4690600994482499128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 398
+        height: 260
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e021dfe5055b80a0800000000000000
+      internalID: -6878310521891643168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 557
+        width: 398
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea75d37cd8b167620800000000000000
+      internalID: 2771432916440143790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_7
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 557
+        width: 396
+        height: 274
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99959a54f9b488770800000000000000
+      internalID: 8613217434786683289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_8
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 557
+        width: 398
+        height: 276
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770d1ecb0afb38970800000000000000
+      internalID: 8756052797622964343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 398
+        height: 275
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e16be1821ee5f0800000000000000
+      internalID: -725622140750929876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 272
+        width: 398
+        height: 270
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52350bfa7b3137950800000000000000
+      internalID: 6445517171344823077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 272
+        width: 398
+        height: 267
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e660fe0f766ef660800000000000000
+      internalID: 7421481931850671846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_12
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 272
+        width: 398
+        height: 262
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21075b5fa1a0c9d10800000000000000
+      internalID: 2133591434374508562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 398
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63597e0f8e634c30800000000000000
+      internalID: 4342436026417501037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 398
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4249d7fa9075c3650800000000000000
+      internalID: 6213937284975006756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_15
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 398
+        height: 241
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274607ec87df5dc40800000000000000
+      internalID: 5536610012223267954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pompa_16
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 0
+        width: 398
+        height: 249
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f364378b1e2793cc0800000000000000
+      internalID: -3730824502511974849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pompa_7: 8613217434786683289
+      Pompa_3: 6869159785805207537
+      Pompa_5: -6878310521891643168
+      Pompa_8: 8756052797622964343
+      Pompa_14: 6213937284975006756
+      Pompa_6: 2771432916440143790
+      Pompa_16: -3730824502511974849
+      Pompa_10: 6445517171344823077
+      Pompa_13: 4342436026417501037
+      Pompa_9: -725622140750929876
+      Pompa_12: 2133591434374508562
+      Pompa_2: -6629030549369329321
+      Pompa_11: 7421481931850671846
+      Pompa_4: -4690600994482499128
+      Pompa_15: 5536610012223267954
+      Pompa_0: 5942920215655233890
+      Pompa_1: -6447583427933571940
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

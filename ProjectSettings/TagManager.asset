@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SEDLO
+  - Trafic
+  - radar
+  - presence
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - presence
+  - Trafic
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - UI_Layers
+  m_SortingLayers:
+  - name: night
+    uniqueID: 2454119021
+    locked: 0
+  - name: ground
+    uniqueID: 2665674157
+    locked: 0
+  - name: BG
+    uniqueID: 1202291575
+    locked: 0
+  - name: groundFG
+    uniqueID: 2730944263
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trafic
+    uniqueID: 3037968977
+    locked: 0
+  - name: Driver
+    uniqueID: 3047083085
+    locked: 0
+  - name: Trailer
+    uniqueID: 969260391
+    locked: 0
+  - name: Player
+    uniqueID: 2449088471
+    locked: 0
+  - name: Znaki
+    uniqueID: 576935645
+    locked: 0
+  - name: Foreground
+    uniqueID: 971379137
+    locked: 0
+  - name: UI Layer
+    uniqueID: 2454063851
+    locked: 0
+  - name: presence
+    uniqueID: 4039987611
+    locked: 0

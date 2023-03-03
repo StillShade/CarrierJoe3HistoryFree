@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: d60257cfdccb39e40af983657105d0d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4145114232429596683
+    second: pilot 1_0
+  - first:
+      213: -3458022003890852861
+    second: pilot 1_1
+  - first:
+      213: -2920614359896355736
+    second: pilot 1_2
+  - first:
+      213: -8637010267615378157
+    second: pilot 1_3
+  - first:
+      213: -339390403080646382
+    second: pilot 1_4
+  - first:
+      213: 8480212111273552448
+    second: pilot 1_5
+  - first:
+      213: -7189457928665677706
+    second: pilot 1_6
+  - first:
+      213: -14074884754506047
+    second: pilot 1_7
+  - first:
+      213: -124789707063468373
+    second: pilot 1_8
+  - first:
+      213: 6898747471706646134
+    second: pilot 1_9
+  - first:
+      213: -8044594927508196578
+    second: pilot 1_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pilot 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 362
+        height: 871
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff2e9e31989976c0800000000000000
+      internalID: -4145114232429596683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_1
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 634
+        width: 205
+        height: 418
+      alignment: 9
+      pivot: {x: 0.51887715, y: 0.7160164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce9901f43a200d0800000000000000
+      internalID: -3458022003890852861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_3
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 151
+        width: 152
+        height: 454
+      alignment: 9
+      pivot: {x: 0.51217926, y: 0.858493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31542652cec232880800000000000000
+      internalID: -8637010267615378157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 845
+        width: 267
+        height: 613
+      alignment: 9
+      pivot: {x: 0.5908795, y: 0.8580058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21193300a3e3a4bf0800000000000000
+      internalID: -339390403080646382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_5
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 0
+        width: 151
+        height: 151
+      alignment: 9
+      pivot: {x: 0.37372714, y: 0.77483094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04aec603cf3cfa570800000000000000
+      internalID: 8480212111273552448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 202
+        width: 244
+        height: 635
+      alignment: 9
+      pivot: {x: 0.6926107, y: 0.8848904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6704442fa1ae93c90800000000000000
+      internalID: -7189457928665677706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 5
+        width: 354
+        height: 183
+      alignment: 9
+      pivot: {x: 0.22696579, y: 0.8055065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cef3f587fefdcff0800000000000000
+      internalID: -14074884754506047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 310
+        height: 328
+      alignment: 9
+      pivot: {x: 0.24173227, y: 0.10607716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c0978b6b4e777d0800000000000000
+      internalID: -2920614359896355736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 166
+        height: 150
+      alignment: 9
+      pivot: {x: 0.32263386, y: 0.9062651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5bde2c68a44ef0800000000000000
+      internalID: -124789707063468373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_9
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 202
+        width: 244
+        height: 635
+      alignment: 9
+      pivot: {x: 0.6926107, y: 0.8848904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e23e36464dbf50800000000000000
+      internalID: 6898747471706646134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pilot 1_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 845
+        width: 267
+        height: 613
+      alignment: 9
+      pivot: {x: 0.5908795, y: 0.8580058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13f6f7198bdb5090800000000000000
+      internalID: -8044594927508196578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pilot 1_1: -3458022003890852861
+      pilot 1_0: -4145114232429596683
+      pilot 1_10: -8044594927508196578
+      pilot 1_9: 6898747471706646134
+      pilot 1_2: -2920614359896355736
+      pilot 1_5: 8480212111273552448
+      pilot 1_3: -8637010267615378157
+      pilot 1_4: -339390403080646382
+      pilot 1_6: -7189457928665677706
+      pilot 1_8: -124789707063468373
+      pilot 1_7: -14074884754506047
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

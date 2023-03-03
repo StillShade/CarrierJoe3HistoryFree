@@ -1,0 +1,6 @@
+Product ID,Published State,Purchase Type,Auto Translate,Locale; Title; Description,Auto Fill Prices,Price,Pricing Template ID
+no_ads,published,managed_by_android,false,en_US;No ADS;Remove unwanted ADS!,true,990000,
+dollars100,published,managed_by_android,false,en_US;Dollars;100 $,true,990000,
+dollars250,published,managed_by_android,false,en_US;Dollars;250 $,true,1990000,
+dollars500,published,managed_by_android,false,en_US;Dollars;500 $,true,3490000,
+dollars1000,published,managed_by_android,false,en_US;Dollars;1000 $,true,6490000,

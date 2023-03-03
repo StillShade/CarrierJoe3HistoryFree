@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: AVACorpGame
-  productName: Carrier Joe History PREMIUM
+  productName: Carrier Joe History
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -138,7 +138,7 @@ PlayerSettings:
     16:10: 1
     16:9: 1
     Others: 1
-  bundleVersion: 0.31.10
+  bundleVersion: 0.32.1
   preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -157,15 +157,15 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.AVACorpGame.CarrierJoeHistoryPREMIUM
+    Android: com.AVACorpGame.CarrierJoeHistory
   buildNumber:
     Standalone: 0
     iPhone: 0
     tvOS: 0
   overrideDefaultApplicationIdentifier: 1
-  AndroidBundleVersionCode: 20
+  AndroidBundleVersionCode: 24
   AndroidMinSdkVersion: 23
-  AndroidTargetSdkVersion: 30
+  AndroidTargetSdkVersion: 31
   AndroidPreferredInstallLocation: 1
   aotOptions: 
   stripEngineCode: 1
@@ -251,8 +251,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 1
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: KEY/CarrierJoeHistoryPREMIUMKey.keystore'
-  AndroidKeyaliasName: carrier joe history premium
+  AndroidKeystoreName: '{inproject}: KEY/CarrierJoeHistoryKey.keystore'
+  AndroidKeyaliasName: avacorpgame
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
@@ -275,7 +275,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 0ce194ec09c886241895dc042f607cdb, type: 3}
+      m_Icon: {fileID: 2800000, guid: 1828e3834e8753c40b1bef093b2980a0, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -355,8 +355,8 @@ PlayerSettings:
       m_Kind: 0
       m_SubKind: 
     - m_Textures:
-      - {fileID: 2800000, guid: 0ce194ec09c886241895dc042f607cdb, type: 3}
-      - {fileID: 2800000, guid: 0ce194ec09c886241895dc042f607cdb, type: 3}
+      - {fileID: 2800000, guid: 1828e3834e8753c40b1bef093b2980a0, type: 3}
+      - {fileID: 2800000, guid: 1828e3834e8753c40b1bef093b2980a0, type: 3}
       m_Width: 432
       m_Height: 432
       m_Kind: 2
@@ -862,7 +862,7 @@ PlayerSettings:
     Legacy Analytics: 1
     Purchasing: 1
     UDP: 0
-    Unity Ads: 0
+    Unity Ads: 1
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -876,10 +876,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: e4a96a98-f6ed-40b4-a548-cbac0f961477
+  cloudProjectId: 7e98dd7b-bb49-4d7a-a6f8-14c781d10f9a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Carrier Joe History PREMIUM
+  projectName: Carrier Joe History
   organizationId: avacorp
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

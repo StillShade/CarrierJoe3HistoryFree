@@ -16,7 +16,7 @@ public class SpecCargoTimer : MonoBehaviour
     float minutes;
     float hourse;
 
-    string RewardedUnitId = "ca-app-pub-8038378620385023/8478486202";
+    string RewardedUnitId = "ca-app-pub-8038378620385023/9140831185";
 
     private RewardedAd rewardedAd;
 

@@ -204,6 +204,8 @@ public class IAPCore : MonoBehaviour, IStoreListener //для получения сообщений и
         Debug.Log(string.Format("OnPurchaseFailed: FAIL. Product: '{0}', PurchaseFailureReason: {1}", product.definition.storeSpecificId, failureReason));
     }
 
-
-
+    void IStoreListener.OnInitializeFailed(InitializationFailureReason error, string message)
+    {
+        throw new NotImplementedException();
+    }
 }

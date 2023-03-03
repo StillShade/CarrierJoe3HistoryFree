@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Main : MonoBehaviour {
 
-	private static int money = 100000;
-	private static int dollars = 100;
+	private static int money = 50000;
+	private static int dollars = 0;
 	private static float kilometers;
-	private static float bankXpFree = 1000;
+	private static float bankXpFree = 0;
 	private static float bankXpBison = 0;
 	private static float bankXpDUB = 0;
 	private static float bankXpFIIV = 0;
@@ -38,7 +38,7 @@ public class Main : MonoBehaviour {
 	public static int cargo_condition;
 	private static int specCargo = 0;
 	private static int muteAudio = 1;
-	private static int ads = 1;
+	private static int ads = 0;
 	private static int gear;
 	private static int buyFuel = 0;
 	private static int mins;

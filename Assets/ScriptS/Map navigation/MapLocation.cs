@@ -191,6 +191,7 @@ public class MapLocation : MonoBehaviour
         PnlUpravlenia.SetActive(false);
         mapLocations.SetActive(false);
         mainCamera.GetComponent<RewAds>().LoadADS();
+        mainCamera.GetComponent<InterAd>().RequestInterstitial();
         Time.timeScale = 1;
     }
     public void Transition()

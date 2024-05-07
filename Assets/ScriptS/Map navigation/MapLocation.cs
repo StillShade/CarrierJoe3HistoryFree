@@ -51,6 +51,7 @@ public class MapLocation : MonoBehaviour
 
     public void OpenMapLocations()
     {
+        mainCamera.GetComponent<Movecar>().GarageCam();
         Main.MapLocation = Main.SaveMapLocation;
         mapLocation = Main.MapLocation;        
         mapGlobal.SetActive(false);
@@ -196,6 +197,7 @@ public class MapLocation : MonoBehaviour
     }
     public void Transition()
     {
+        mainCamera.GetComponent<Movecar>().UserCam();
         mapLocations.SetActive(false);
         PnlDw.SetActive(false);
         PnlUpravlenia.SetActive(true);

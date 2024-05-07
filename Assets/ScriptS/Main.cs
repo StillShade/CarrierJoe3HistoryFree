@@ -62,6 +62,15 @@ public class Main : MonoBehaviour {
 	private static float CamX = 0.5f;
 	private static float CamY = 0.48f;
 	private static float CamZ = 55f;
+	private static float CamXGarage = 0.6f;
+	private static float CamYGarage = 0.45f;
+	private static float CamZGarage = 40f;
+	private static float CamXTruck = 0.4f;
+	private static float CamYTruck = 0.45f;
+	private static float CamZTruck = 25f;
+	private static float CamXTrailer = 0.7f;
+	private static float CamYTrailer = 0.45f;
+	private static float CamZTrailer = 40f;
 	///////////////////   G L O B A L   M A P   ////////////////////////////////////////////////////////////////////////////////////////
 	private static float ContPosX = 0f;
 	private static float ContPosY = 0f;
@@ -2177,6 +2186,42 @@ public class Main : MonoBehaviour {
 		if (PlayerPrefs.HasKey("CamZ"))
 		{
 			CamZ = PlayerPrefs.GetFloat("CamZ");
+		}
+		if (PlayerPrefs.HasKey("CamXGarage"))
+		{
+			CamXGarage = PlayerPrefs.GetFloat("CamXGarage");
+		}
+		if (PlayerPrefs.HasKey("CamYGarage"))
+		{
+			CamYGarage = PlayerPrefs.GetFloat("CamYGarage");
+		}
+		if (PlayerPrefs.HasKey("CamZGarage"))
+		{
+			CamZGarage = PlayerPrefs.GetFloat("CamZGarage");
+		}
+		if (PlayerPrefs.HasKey("CamXTruck"))
+		{
+			CamXTruck = PlayerPrefs.GetFloat("CamXTruck");
+		}
+		if (PlayerPrefs.HasKey("CamYTruck"))
+		{
+			CamYTruck = PlayerPrefs.GetFloat("CamYTruck");
+		}
+		if (PlayerPrefs.HasKey("CamZTruck"))
+		{
+			CamZTruck = PlayerPrefs.GetFloat("CamZTruck");
+		}
+		if (PlayerPrefs.HasKey("CamXTrailer"))
+		{
+			CamXTrailer = PlayerPrefs.GetFloat("CamXTrailer");
+		}
+		if (PlayerPrefs.HasKey("CamYTrailer"))
+		{
+			CamYTrailer = PlayerPrefs.GetFloat("CamYTrailer");
+		}
+		if (PlayerPrefs.HasKey("CamZTrailer"))
+		{
+			CamZTrailer = PlayerPrefs.GetFloat("CamZTrailer");
 		}
 		//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 		if (PlayerPrefs.HasKey("ContPosX"))
@@ -7074,6 +7119,114 @@ public class Main : MonoBehaviour {
 		{
 			CamZ = value;
 			PlayerPrefs.SetFloat("CamZ", CamZ);
+		}
+	}
+	public static float camXGarage
+	{
+		get
+		{
+			return CamXGarage;
+		}
+		set
+		{
+			CamXGarage = value;
+			PlayerPrefs.SetFloat("CamXGarage", CamXGarage);
+		}
+	}
+	public static float camYGarage
+	{
+		get
+		{
+			return CamYGarage;
+		}
+		set
+		{
+			CamYGarage = value;
+			PlayerPrefs.SetFloat("CamYGarage", CamYGarage);
+		}
+	}
+	public static float camZGarage
+	{
+		get
+		{
+			return CamZGarage;
+		}
+		set
+		{
+			CamZGarage = value;
+			PlayerPrefs.SetFloat("CamZGarage", CamZGarage);
+		}
+	}
+	public static float camXTruck
+	{
+		get
+		{
+			return CamXTruck;
+		}
+		set
+		{
+			CamXTruck = value;
+			PlayerPrefs.SetFloat("CamXTruck", CamXTruck);
+		}
+	}
+	public static float camYTruck
+	{
+		get
+		{
+			return CamYTruck;
+		}
+		set
+		{
+			CamYTruck = value;
+			PlayerPrefs.SetFloat("CamYTruck", CamYTruck);
+		}
+	}
+	public static float camZTruck
+	{
+		get
+		{
+			return CamZTruck;
+		}
+		set
+		{
+			CamZTruck = value;
+			PlayerPrefs.SetFloat("CamZTruck", CamZTruck);
+		}
+	}
+	public static float camXTrailer
+	{
+		get
+		{
+			return CamXTrailer;
+		}
+		set
+		{
+			CamXTrailer = value;
+			PlayerPrefs.SetFloat("CamXTrailer", CamXTrailer);
+		}
+	}
+	public static float camYTrailer
+	{
+		get
+		{
+			return CamYTrailer;
+		}
+		set
+		{
+			CamYTrailer = value;
+			PlayerPrefs.SetFloat("CamYTrailer", CamYTrailer);
+		}
+	}
+	public static float camZTrailer
+	{
+		get
+		{
+			return CamZTrailer;
+		}
+		set
+		{
+			CamZTrailer = value;
+			PlayerPrefs.SetFloat("CamZTrailer", CamZTrailer);
 		}
 	}
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////

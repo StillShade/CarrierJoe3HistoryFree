@@ -98,8 +98,11 @@ public class DayNightScript : MonoBehaviour
             {
                 stars[i].color = new Color(stars[i].color.r, stars[i].color.g, stars[i].color.b, 1 - (float)mins / 60); // change the alpha value of the stars so they become visible
             }
+            if (lights.intensity < 0.2f)
+            {
+                lights.intensity = 0.2f;
+            }
         }
-
 
         if (hours >= 6 && hours < 7) // Dawn at 6:00 / 6am    -   until 7:00 / 7am
         {
@@ -107,6 +110,10 @@ public class DayNightScript : MonoBehaviour
             for (int i = 0; i < stars.Length; i++)
             {
                 stars[i].color = new Color(stars[i].color.r, stars[i].color.g, stars[i].color.b, (float)mins / 60); // make stars invisible
+            }
+            if (lights.intensity > 1f)
+            {
+                lights.intensity = 1f;
             }
         }
 

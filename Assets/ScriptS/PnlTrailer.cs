@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class PnlTrailer : MonoBehaviour
 {
+    public GameObject mainCamera;
     [Header("Панели прицепов")]
     public GameObject pnlTrailer;
     public GameObject pnlBoard;
@@ -1087,6 +1088,7 @@ public class PnlTrailer : MonoBehaviour
 
     public void ClosePnlTrailer() 
     {
+        mainCamera.GetComponent<Movecar>().GarageCam();
         pricepNumber = Main.PrcNumber;
         pnlTrailer.SetActive(false);
         btnSelect.SetActive(false);

@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class PnlTruck : MonoBehaviour
 {
+    public GameObject mainCamera;
     [Header("Панели гузовиков")]
     public GameObject pnlTruck;
     public GameObject pnlBison;
@@ -1577,6 +1578,7 @@ public class PnlTruck : MonoBehaviour
 
     public void ClosePnlTruck()
     {
+        mainCamera.GetComponent<Movecar>().GarageCam();
         pnlTruck.SetActive(false);
         btnSelect.SetActive(false);
         pnlBtnXpMonSel.SetActive(false);

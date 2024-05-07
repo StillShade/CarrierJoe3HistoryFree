@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class Menu : MonoBehaviour
 {
+    public GameObject mainCamera;
     [Header("Нижняя панель и кнопки")]
     public GameObject pnlDw;
     public GameObject pnlTruck;
@@ -271,6 +272,7 @@ public class Menu : MonoBehaviour
     }
     public void openPnlTruck()
     {
+        mainCamera.GetComponent<Movecar>().TruckCam();
         pnlTruck.SetActive(true);
         Main.Engine = 1;
         Main.Gearbox = 1;
@@ -281,7 +283,8 @@ public class Menu : MonoBehaviour
     }
     public void openPnlTrailer()
     {
-        pnlTrailer.SetActive(true);
+        mainCamera.GetComponent<Movecar>().TrailerCam();
+        pnlTrailer.SetActive(true);        
     }
     public void openPnlUpgrade()
     {

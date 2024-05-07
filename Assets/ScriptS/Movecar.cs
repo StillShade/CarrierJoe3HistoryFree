@@ -9,7 +9,8 @@ public class Movecar : MonoBehaviour {
 	public GameObject mainCamera;
 	public float dampTime = 0.1f;
 	private Vector3 velocity = Vector3.zero;
-	public Transform target;	
+	public Transform target;
+	public int lookCam = 0;
 	public float CamX = 0f;
 	public float CamY = 0f;
 	public float CamZ = 0f;
@@ -249,11 +250,41 @@ public class Movecar : MonoBehaviour {
 		Main.MuteAudio = 1;		
 	}
 
+	public void TruckCam()
+	{
+		lookCam = 0;
+		CamX = Main.camXTruck;
+		CamY = Main.camYTruck;
+		CamZ = Main.camZTruck;
+	}
+
+	public void TrailerCam()
+	{
+		lookCam = 0;
+		CamX = Main.camXTrailer;
+		CamY = Main.camYTrailer;
+		CamZ = Main.camZTrailer;
+	}
+
+	public void GarageCam()
+	{
+		lookCam = 0;
+		CamX = Main.camXGarage;
+		CamY = Main.camYGarage;
+		CamZ = Main.camZGarage;
+	}
+
+	public void UserCam()
+	{
+		lookCam = 1;
+		CamX = Main.camX;
+		CamY = Main.camY;
+		CamZ = Main.camZ;
+	}
+
 	void Start()
 	{
-		CamX = Main.camX;
-        CamY = Main.camY;
-        CamZ = Main.camZ;
+		GarageCam();
 
 		Main.LightOn = 0;
 
@@ -1965,9 +1996,12 @@ public class Movecar : MonoBehaviour {
 			}
 		}
 
-		Main.camX = CamX;
-		Main.camY = CamY;
-		Main.camZ = CamZ;
+		if (lookCam == 1)
+		{
+			Main.camX = CamX;
+			Main.camY = CamY;
+			Main.camZ = CamZ;
+		}
 
 		if (turnovers > 2500)
             turnovers = 2500;

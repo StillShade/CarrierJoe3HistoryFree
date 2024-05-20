@@ -528,7 +528,7 @@ public class Movecar : MonoBehaviour {
 		}
 		curpos = startpos;
 		Gear = 0;
-		indicator = 1;
+		indicator = 0;
 	}
 
 	public void Acceler() {

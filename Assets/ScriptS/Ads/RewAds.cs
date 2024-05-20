@@ -26,6 +26,7 @@ public class RewAds : MonoBehaviour
 
     private RewardedAd rewardedAd;
 
+    [Obsolete]
     private void Start()
     {
         MobileAds.Initialize(initStatus => { });
@@ -50,6 +51,7 @@ public class RewAds : MonoBehaviour
         noAds.SetActive(false);
     }
 
+    [Obsolete]
     public void LoadADS()
     {
         rewardedAd = new RewardedAd(RewardedUnitId);
@@ -58,6 +60,7 @@ public class RewAds : MonoBehaviour
         rewardedAd.OnUserEarnedReward += HandleUserEarnedReward;
     }
 
+    [Obsolete]
     private void OnDisable()
     {
         rewardedAd.OnUserEarnedReward -= HandleUserEarnedReward;
@@ -99,10 +102,11 @@ public class RewAds : MonoBehaviour
                 btnTrailerXpX2.SetActive(false);
                 trailerXpTx.text = Main.PrizeXpTrailer.ToString("0") + " XP";
                 break;
-        }        
+        }
     }
 
-    public void ShowAd (int typeNumber)
+    [Obsolete]
+    public void ShowAd(int typeNumber)
     {
         _IdADS = typeNumber;
         if (rewardedAd.IsLoaded())

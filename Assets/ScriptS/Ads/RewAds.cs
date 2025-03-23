@@ -22,11 +22,10 @@ public class RewAds : MonoBehaviour
     private int _IdADS;
     public GameObject noAds;
 
-    string RewardedUnitId = "ca-app-pub-8038378620385023/9140831185";
+    string RewardedUnitId = "ca-app-pub-1724628854723373/7446274664";
 
     private RewardedAd rewardedAd;
 
-    [Obsolete]
     private void Start()
     {
         MobileAds.Initialize(initStatus => { });
@@ -51,7 +50,6 @@ public class RewAds : MonoBehaviour
         noAds.SetActive(false);
     }
 
-    [Obsolete]
     public void LoadADS()
     {
         rewardedAd = new RewardedAd(RewardedUnitId);
@@ -60,7 +58,6 @@ public class RewAds : MonoBehaviour
         rewardedAd.OnUserEarnedReward += HandleUserEarnedReward;
     }
 
-    [Obsolete]
     private void OnDisable()
     {
         rewardedAd.OnUserEarnedReward -= HandleUserEarnedReward;
@@ -105,7 +102,6 @@ public class RewAds : MonoBehaviour
         }
     }
 
-    [Obsolete]
     public void ShowAd(int typeNumber)
     {
         _IdADS = typeNumber;

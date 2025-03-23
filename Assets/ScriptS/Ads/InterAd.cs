@@ -8,7 +8,6 @@ public class InterAd : MonoBehaviour
     private InterstitialAd interstitialAd;
     public GameObject noAds;
 
-    [System.Obsolete]
     private void Start()
     {
         MobileAds.Initialize(initStatus => { });
@@ -25,16 +24,14 @@ public class InterAd : MonoBehaviour
         noAds.SetActive(false);
     }
 
-    [System.Obsolete]
     public void RequestInterstitial()
     {
-        string interstitialUnitId = "ca-app-pub-8038378620385023/4964268711";
+        string interstitialUnitId = "ca-app-pub-1724628854723373/3827998824";
         interstitialAd = new InterstitialAd(interstitialUnitId);
         AdRequest adRequest = new AdRequest.Builder().Build();
         interstitialAd.LoadAd(adRequest);
     }
 
-    [System.Obsolete]
     public void ShowAd()
     {
         if (Main.Ads == 0)
